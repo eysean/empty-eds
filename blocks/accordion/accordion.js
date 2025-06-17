@@ -1,7 +1,7 @@
 /*
  * Accordion Block
  * Recreate an accordion
- * https://www.hlx.live/developer/block-collection/accordion
+ * https://www.aem.live/developer/block-collection/accordion
  */
 
 export default function decorate(block) {

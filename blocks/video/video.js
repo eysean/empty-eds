@@ -1,7 +1,7 @@
 /*
  * Video Block
  * Show a video referenced by a link
- * https://www.hlx.live/developer/block-collection/video
+ * https://www.aem.live/developer/block-collection/video
  */
 
 const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
